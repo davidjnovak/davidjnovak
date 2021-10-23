@@ -1,0 +1,3 @@
+- 👋 Hi, I’m David Novak
+- 🌱 I’m currently learning full stack web development 
+- 📫 Feel free to reach me at davidnovak01@gmail.com 
