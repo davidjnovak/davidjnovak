@@ -1,3 +1,3 @@
 - 👋 Hi, I’m David Novak
-- 🌱 I’m currently learning full stack web development 
-- 📫 Feel free to reach me at davidnovak01@gmail.com 
+- 🌱 I'm a software engineer looking to make an impact with my skills
+- 📫 Feel free to reach me at davidnovak01@gmail.com
