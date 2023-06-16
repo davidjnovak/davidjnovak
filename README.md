@@ -12,7 +12,7 @@ I'm a programmer with a strong interest in data analysis and web frameworks. Wit
 
 ## Making a Social Impact
 
-Beyond my technical expertise, I am deeply committed to making a social impact through my work. I believe in utilizing my skills and knowledge to create solutions that contribute to a better and more equitable world.
+Beyond my technical ability, I am deeply committed to making a social impact through my work. I believe in utilizing my skills and knowledge to create solutions that contribute to a better and more equitable world.
 
 ## Get in Touch
 
