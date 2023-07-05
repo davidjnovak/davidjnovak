@@ -20,5 +20,5 @@ If you're interested in collaborating or have any questions, feel free to reach 
 
 - Email: davidnovak01@gmail.com
 - LinkedIn: https://www.linkedin.com/in/david-novak-664970209/
-
+- Website: davidnovak.xyz
 Looking forward to connecting with you! 🌍✨
