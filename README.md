@@ -2,23 +2,24 @@
 
 ## About Me
 
-I'm a programmer with a strong interest in data analysis and web frameworks. With a background in computer science and over three years of professional coding experience, I thrive on leveraging technology to solve complex problems.
+I'm a programmer with a keen focus on data analysis and web frameworks. My educational background is in computer science and I've spent over three years professionally coding, thriving on using technology to tackle intricate problems.
 
 ## Interests
 
-- **Data:** I love diving into data, extracting meaningful insights, and uncovering patterns that drive informed decision-making.
+- **Data:** Immersing myself in data, gleaning significant insights, and detecting patterns that facilitate data-driven decisions are activities I truly enjoy.
 
-- **Web Frameworks:** I enjoy working with web frameworks to build robust and scalable applications, bringing ideas to life in the digital space.
+- **Web Frameworks:** I find pleasure in employing web frameworks to construct robust, scalable applications that help actualize ideas in the digital realm.
 
 ## Making a Social Impact
 
-Beyond my technical ability, I am deeply committed to making a social impact through my work. I believe in utilizing my skills and knowledge to create solutions that contribute to a better and more equitable world.
+Apart from my technical prowess, I hold a deep commitment towards effecting a social change through my work. I stand by the belief that my abilities and expertise should be harnessed to engineer solutions that pave the way for a better and fairer world.
 
 ## Get in Touch
 
-If you're interested in collaborating or have any questions, feel free to reach out. Let's connect and create something meaningful together!
+In case you're interested in a collaboration or have any queries, don't hesitate to get in touch. Let's link up and craft something impactful together!
 
-- Email: davidnovak01@gmail.com
-- LinkedIn: https://www.linkedin.com/in/david-novak-664970209/
-- Website: davidnovak.xyz
+- Email: [davidnovak01@gmail.com](mailto:davidnovak01@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/david-novak-664970209/](https://www.linkedin.com/in/david-novak-664970209/)
+- Website: [davidnovak.xyz](http://davidnovak.xyz)
+
 Looking forward to connecting with you! 🌍✨
